@@ -10,4 +10,4 @@ I am very organized and dedicated person to my work. I am constantly seeking out
 - 😄 Pronouns: she/her
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bsrcs&theme=chartreuse-dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsrcs&layout=compacttheme=chartreuse-dark&)](https://github.com/bsrcs/github-readme-stats)
+
