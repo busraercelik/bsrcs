@@ -9,5 +9,4 @@ I am very organized and dedicated person to my work. I am constantly seeking out
 - 📫 How to reach me: https://www.linkedin.com/in/busraercelik
 - 😄 Pronouns: she/her
 
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bsrcs&theme=radical)
