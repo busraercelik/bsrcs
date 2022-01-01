@@ -11,4 +11,4 @@ I am very organized and dedicated person to my work. I am constantly seeking out
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bsrcs&theme=radical)
 
-[![Busra's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsrcs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsrcs)](https://github.com/anuraghazra/github-readme-stats)
