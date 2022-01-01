@@ -10,4 +10,4 @@ I am very organized and dedicated person to my work. I am constantly seeking out
 - 😄 Pronouns: she/her
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
